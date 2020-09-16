@@ -11,13 +11,7 @@ const Wrapper = styled('footer')`
 const Footer: React.SFC = () => (
   <Wrapper>
     <Paragraph margin={0}>
-      <small>
-        Created with{' '}
-        <a href="https://github.com/kata-ai/grundgesetz-skeleton" target="_blank" rel="noopener noreferrer">
-          Grundgesetz
-        </a>
-        .
-      </small>
+      <small>atas nama ❤️</small>
     </Paragraph>
   </Wrapper>
 );
